@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif
+}
+
+.menu-item {
+    width: 250px;
+    height: 50px;
+    border: 1px solid gray;
+    list-style-type: none;
+    padding: 5px;
+    margin: 10px;
+}
+
+.container {
+  display: flex;
+}
+
+.hover {
+    background: lightgray
+}
+
+.selected{
+    background: gold
+}
+
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+p {
+	margin-left: 400px;
+	margin-top: 30px;
+	line-height: 2em;
+}
