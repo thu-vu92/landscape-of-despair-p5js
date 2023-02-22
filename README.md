@@ -1,5 +1,5 @@
 # landscape-of-despair-p5js
-Source code for web-based data visualization of suicidal cases in the Netherlands in 2018, using p5.js.
+Source code for web-based data visualization of suicidal cases in the Netherlands in 2018, using p5.js. This project is based on the beautiful visual created on this topic by [Studio Terp](https://www.studioterp.nl/a-view-on-despair-a-datavisualization-project-by-studio-terp/). I aim to create a generative way to create such visual with code using P5js.   
 
 ### Learn more about p5.js
 P5.js is a creative drawing library in JS. https://p5js.org/
